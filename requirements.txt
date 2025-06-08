@@ -1,0 +1,8 @@
+streamlit
+openai
+faiss-cpu
+tiktoken
+python-dotenv
+requests
+gdown
+
